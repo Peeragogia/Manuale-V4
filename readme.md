@@ -1,12 +1,9 @@
-
-
- ____
-|  _ \ ___  ___ _ __ __ _  __ _  ___   __ _ _   _       ___ ___  _ __ ___  
-| |_) / _ \/ _ \ '__/ _` |/ _` |/ _ \ / _` | | | |     / __/ _ \| '_ ` _ \ 
-|  __/  __/  __/ | | (_| | (_| | (_) | (_| | |_| |    | (_| (_) | | | | | |
-|_|   \___|\___|_|  \__,_|\__, |\___/ \__, |\__, |___(_)___\___/|_| |_| |_|
-                          |___/       |___/ |___/_____|                    
-
+ ____                                       _       
+|  _ \ ___  ___ _ __ __ _  __ _  ___   __ _(_) __ _ 
+| |_) / _ \/ _ \ '__/ _` |/ _` |/ _ \ / _` | |/ _` |
+|  __/  __/  __/ | | (_| | (_| | (_) | (_| | | (_| |
+|_|   \___|\___|_|  \__,_|\__, |\___/ \__, |_|\__,_|
+                          |___/       |___/         
 
 Questo sito è stato realizzato come esercizio di "Apprendimento inverso" per la versione V4 del manuale di Peeragogia (2021) grazie al template messo a disposizione da:
 
@@ -18,7 +15,6 @@ Questo sito è stato realizzato come esercizio di "Apprendimento inverso" per la
 This license lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.
 
 infopage: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-
 
 #Grazie Azmind .... Habbiamo appreso molto e ci siamo divertiti a studiare il tuo lavoro :)
 
