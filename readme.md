@@ -16,7 +16,7 @@ This license lets others remix, adapt, and build upon your work even for commerc
 
 infopage: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-#Grazie Azmind .... Habbiamo appreso molto e ci siamo divertiti a studiare il tuo lavoro :)
+#Grazie Azmind .... abbiamo appreso molto e ci siamo divertiti a studiare il tuo lavoro :)
 
 Features:
 Responsive Layout (Bootstrap framework v3.3.5)
@@ -33,7 +33,7 @@ HTML5 and CSS3
 
 Note:
 - Le immagini della copertina del libro sono provvisorie.
-- Non essendoci traduzioni previste in Italiano utilizzaremo la versione flipbook in inglese che creeremo nonappena verrà rilasciato il nuovo .pdf
+- Non essendoci traduzioni previste in Italiano utilizzeremo la versione flipbook in inglese che creeremo non appena verrà rilasciato il nuovo .pdf
 
 CC BY-SA - Bergamo|Hub 2020 #SI000721.4
 Domain: peeragogia.coach
